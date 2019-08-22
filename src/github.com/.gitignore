@@ -1,0 +1,5 @@
+# By default, ignore everything because dependencies also live here
+/*/
+
+# White-list the directory containing sources managed by this repo
+!/canterberry/

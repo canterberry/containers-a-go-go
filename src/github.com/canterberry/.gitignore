@@ -1,0 +1,6 @@
+# By default, ignore everything, because we may have other dependencies living here
+/*/
+
+# White-list the directory containing the source code managed by this repo
+!/goredis/
+
