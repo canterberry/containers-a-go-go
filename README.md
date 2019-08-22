@@ -2,6 +2,9 @@
 
 A playground for experimenting with [containerd][1] and [Go][2].
 
+This repo draws heavily from the [Getting Started][4] guide for
+containerd.
+
 ## Prerequisites
 
 You should have a running `containerd` daemon and a `go` executable
@@ -19,3 +22,4 @@ Just run `make`.
 [1]: https://containerd.io/
 [2]: https://golang.org/
 [3]: https://asdf-vm.com/
+[4]: https://containerd.io/docs/getting-started/
