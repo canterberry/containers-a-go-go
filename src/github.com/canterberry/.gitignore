@@ -2,5 +2,5 @@
 /*/
 
 # White-list the directory containing the source code managed by this repo
-!/goredis/
+!/containers-a-go-go/
 
